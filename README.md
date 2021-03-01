@@ -1,6 +1,6 @@
 # Knowledge-Tracing-Loops-with-LGB
 
-Research About Knowledge Tracing
+Some research About Knowledge Tracing
 
 	https://web.stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf
 	https://arxiv.org/abs/1907.06837
